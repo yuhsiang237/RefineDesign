@@ -1,1 +1,0 @@
-import{N as e,b as t,m as n,p as r,q as i,u as a}from"./runtime-core.esm-bundler-BdVKJVwi.js";import{o}from"./index-DDnN9MEW.js";var s={"collaboration-view":`_collaboration-view_qt87f_1`},c=n({__name:`CollaborationView`,setup(n){return(n,c)=>(t(),a(`main`,{class:i(e(s)[`collaboration-view`])},[r(o,{"heading-tag":`h1`})],2))}});export{c as default};
